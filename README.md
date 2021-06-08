@@ -14,6 +14,7 @@
 ## 3、软件功能说明及演示
 
 软件初始界面如下：
+
 ![aaa](https://github.com/qinxianglinya/modelTranslation/blob/main/images/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
 
 
