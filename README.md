@@ -14,8 +14,8 @@
 ## 3、软件功能说明及演示
 
 软件初始界面如下：
+![aaa](https://github.com/qinxianglinya/modelTranslation/blob/main/images/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
 
-![image-20210608103923257](C:\Users\50126\AppData\Roaming\Typora\typora-user-images\image-20210608103923257.png)
 
 功能一：将Tensorflow框架下的RetinaNet算法转换为TensorRT模型
 
