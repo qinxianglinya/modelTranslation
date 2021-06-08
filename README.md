@@ -41,4 +41,6 @@
 ![image-20210608105001928](https://github.com/qinxianglinya/modelTranslation/blob/main/images/finish.png)
 
 ![image-20210608105151543](https://github.com/qinxianglinya/modelTranslation/blob/main/images/trtmodel.png)
+## 4、说明
 
+为了方便对TensorRT模型进行结果验证，于是基于InferenceAPI开发了一个界面程序，用于可视化推断结果。界面程序地址为：https://github.com/qinxianglinya/Qt-Inference
