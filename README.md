@@ -34,11 +34,11 @@
 
 模型转换中界面演示：
 
-![image-20210608104801814](C:\Users\50126\AppData\Roaming\Typora\typora-user-images\image-20210608104801814.png)
+![image-20210608104801814](https://github.com/qinxianglinya/modelTranslation/blob/main/images/shifting.png)
 
 模型生成完成界面演示：
 
-![image-20210608105001928](C:\Users\50126\AppData\Roaming\Typora\typora-user-images\image-20210608105001928.png)
+![image-20210608105001928](https://github.com/qinxianglinya/modelTranslation/blob/main/images/finish.png)
 
-![image-20210608105151543](C:\Users\50126\AppData\Roaming\Typora\typora-user-images\image-20210608105151543.png)
+![image-20210608105151543](https://github.com/qinxianglinya/modelTranslation/blob/main/images/trtmodel.png)
 
